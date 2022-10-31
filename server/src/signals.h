@@ -1,0 +1,2 @@
+void closeHandler();
+void bindSignals();
